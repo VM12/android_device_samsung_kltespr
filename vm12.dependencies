@@ -23,10 +23,5 @@
     "repository":  "CyanogenMod/android_hardware_samsung",
     "target_path": "hardware/samsung",
     "branch":      "cm-12.0"
-  },
-  {
-    "repository":  "VM12/android_vendor_samsung",
-    "target_path": "vendor/samsung",
-    "branch":      "vm12"
   }
 ]
