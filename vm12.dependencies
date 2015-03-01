@@ -15,6 +15,11 @@
     "branch":      "vm12"
   },
   {
+   "repository": "VM12/android_device_qcom_common",
+   "target_path": "device/qcom/common",
+   "branch": "vm12"
+  },
+  {
     "repository":  "VM12/android_kernel_samsung_klte",
     "target_path": "kernel/samsung/klte",
     "branch":      "vm12"
